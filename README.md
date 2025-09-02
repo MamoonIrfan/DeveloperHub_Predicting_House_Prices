@@ -51,9 +51,7 @@ Scikit-learn (ML model & preprocessing)
 
 Clone the repository:
 
-git clone https://github.com/your-username/boston-house-prices.git
-cd boston-house-prices
-
+https://github.com/MamoonIrfan/DeveloperHub_Predicting_House_Prices.git
 
 Install required dependencies:
 
